@@ -1,8 +1,8 @@
 # workfromcafes
 
 Listing of cafe's I have tried out, when working remotely.
-> No food ratings, as I do not think I would be a good judge
-> Not limited to WiFi cafes as my work laptop has 4G internet. I did not use WiFi in these cafes
+> -- No food ratings, as I do not think I would be a good judge
+> -- Not limited to WiFi cafes as my work laptop has 4G internet. I did not use WiFi in these cafes
 
 | Cafe | Location | Seating | Ambient Noise | Service |
 |:-----|:---------|:--------|:--------------|:--------|
