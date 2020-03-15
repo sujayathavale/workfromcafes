@@ -1,6 +1,6 @@
 # workfromcafes
 
-Listing of cafe's I have tried out, when working remotely.
+Listing of cafe's I have tried out, when working remotely. Criteria is purely based on how conducive they were for doing productive work :)
 > - No food ratings, as I do not think I would be a good judge
 > - Not limited to WiFi cafes as my work laptop has 4G internet. I did not use WiFi in these cafes
 
